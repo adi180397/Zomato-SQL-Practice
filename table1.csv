@@ -1,0 +1,7 @@
+OrderID,DishName,RestaurantID,Quantity,OrderDate
+1,Burger,R101,2,2025-01-01
+2,Pasta,R101,1,2025-01-02
+3,Burger,R101,1,2025-01-03
+4,Pizza,R102,3,2025-01-01
+5,Burger,R101,4,2025-01-04
+6,Pasta,R101,2,2025-01-05
