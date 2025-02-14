@@ -1,0 +1,6 @@
+OrderID,Cuisine,Amount,OrderDate
+1,Italian,200,2025-01-01
+2,Italian,150,2025-01-10
+3,Chinese,300,2025-01-15
+4,Indian,100,2025-01-20
+5,Chinese,250,2025-01-25
