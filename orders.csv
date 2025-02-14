@@ -1,0 +1,6 @@
+OrderID,UserID,RestaurantID,DishName,OrderDate
+1,U123,R101,Burger,2025-01-01
+2,U123,R102,Pasta,2025-01-10
+3,U123,R103,Pizza,2024-12-15
+4,U124,R102,Salad,2024-12-20
+5,U123,R104,Burger,2025-01-05
